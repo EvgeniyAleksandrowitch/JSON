@@ -1,4 +1,0 @@
-{ "name": "Aleksandrovich Evgenij",
-"aga": 40,
-"money": 100
-}
